@@ -17,3 +17,10 @@ li {
 p {
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.recipelist {
+  background-color: lightpink;
+  border: 3px solid purple;
+  margin-right: auto;
+  width: 200px;
+}
